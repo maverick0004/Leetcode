@@ -1,5 +1,5 @@
 import math
-#from Queue import PriorityQueue
+from Queue import PriorityQueue
 class Solution(object):
     def kClosest(self, points, K):
         """
