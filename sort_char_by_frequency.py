@@ -1,6 +1,7 @@
 from collections import Counter
 from Queue import PriorityQueue
 
+# Sorts character accordinf to frequencies
 class Solution(object):
     def frequencySort(self, s):
         """
